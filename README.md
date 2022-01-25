@@ -1,4 +1,4 @@
-![malallai's stats](https://badge42.herokuapp.com/api/stats/malallai)
+![malallai's stats](https://badge42.herokuapp.com/api/stats/rmechety)
 <!--
 **rmechety/rmechety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
